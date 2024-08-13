@@ -50,7 +50,7 @@ modular and scalable applications.
 
 ***Gratitude India***
 
-***Oct 2020 - Present***
+***Oct 2020 - Apr 2024***
 
 Developed and maintained innovative, state-of-the-art web applications
 using Laravel framework.
