@@ -10,23 +10,19 @@ Nairobi, Kenya
 
 ## **Summary**
 
-Software Engineer with 5+ years of experience in full-stack development
-and database management. Proven ability to design, develop, and deploy
-high-quality software applications.
+Software Engineer with 5+ years of experience in full-stack development and database management. 
+Proven ability to design, develop, and deploy high-quality software applications.
 
-Strong technical skills in a variety of programming languages and
-frameworks, including PHP, JavaScript, MySQL, Laravel, Yii, Vue.js, and
-CodeIgniter.
+Strong technical skills in various programming languages and frameworks, 
+including PHP, JavaScript, MySQL, Laravel, Yii, Vue.js, and CodeIgniter.
 
-Experience with agile development methodologies and cloud computing
-platforms, such as Amazon Web Services (AWS) and Google Cloud Platform
-(GCP). Excellent problem-solving and analytical skills, with the ability
-to identify and solve complex technical issues.
+Experience with agile development methodologies and cloud computing platforms, 
+such as Amazon Web Services (AWS) and Google Cloud Platform (GCP). 
+Excellent problem-solving and analytical skills, with the ability to identify and solve complex technical issues. 
 
-Ability to work independently and as part of a team, with a proven track
-record of delivering high-quality software on time and within budget.
-Committed to continuous learning and improvement, with a passion for
-staying up-to-date on the latest technologies.
+Ability to work independently and as part of a team, with a proven track record of delivering 
+high-quality software on time and within budget. I am committed to continuous learning and improvement, 
+with a passion for staying up-to-date on the latest technologies.
 
 ## **Experience**
 
@@ -36,15 +32,13 @@ staying up-to-date on the latest technologies.
 
 **October 2021 - Present**
 
-Developed and maintained software applications using PHP, Laravel,
-Vue.js, MySQL, and PostgreSQL.
+Developed and maintained software applications using PHP, Laravel, Vue.js, MySQL, and PostgreSQL.
 
 Designed and implemented REST APIs.
 
 Worked with Amazon Web Services (AWS) to deploy and scale applications.
 
-Used Model-View-Controller (MVC) architecture to design and develop
-modular and scalable applications.
+Used Model-View-Controller (MVC) architecture to design and develop modular and scalable applications.
 
 **Laravel Developer**
 
@@ -52,19 +46,15 @@ modular and scalable applications.
 
 ***Oct 2020 - Apr 2024***
 
-Developed and maintained innovative, state-of-the-art web applications
-using Laravel framework.
+Developed and maintained innovative, state-of-the-art web applications using Laravel framework.
 
 Implemented secure and scalable database solutions, using MySQL.
 
-Worked with a team of developers to deliver high-quality software on
-time and within budget.
+Worked with a team of developers to deliver high-quality software on time and within budget.
 
-Utilize agile methodologies and development best practices to enhance
-product development
+Utilize agile methodologies and development best practices to enhance product development
 
-Utilize back-end data services and contribute to increasing existing
-data services API
+Utilize backend data services and contribute to increasing existing data services API
 
 ***Web Developer***
 
@@ -72,19 +62,15 @@ data services API
 
 ***Oct 2019 - Jul 2020***
 
-Led the entire web application development life cycle, from concept to
-delivery and post-launch support.
+Led the entire web application development life cycle, from concept to delivery and post-launch support.
 
-Provided front-end website development using WordPress and other editing
-software
+Provided front-end website development using WordPress and other editing software.
 
 Integrated data from various back-end services and databases.
 
-Identified and corrected problems uncovered by customer feedback, using
-a variety of testing and debugging tools.
+Identified and corrected problems uncovered by customer feedback, using a variety of testing and debugging tools.
 
-Conducted testing and review of website design for responsiveness,
-clarity, and effectiveness.
+Conducted website design testing and review for responsiveness, clarity, and effectiveness.
 
 **Web Developer**
 
@@ -92,12 +78,10 @@ clarity, and effectiveness.
 
 ***Sep 2018 - May 2019***
 
-Designed, developed, and maintained various components of web
-applications, including the database, user interface, and security
-features.
+Designed, developed, and maintained various components of web applications, 
+including the database, user interface, and security features.
 
-Collaborated with marketing and other stakeholders to ensure that web
-applications met the needs of users and the organization.
+Collaborated with marketing and other stakeholders to ensure that web applications met the needs of users and the organization.
 
 **Software Engineer Intern**
 
@@ -112,6 +96,7 @@ Developed and maintained a MySQL database.
 Implemented security and data protection measures.
 
 Provided training to software users.
+
 
 ## **Education**
 
