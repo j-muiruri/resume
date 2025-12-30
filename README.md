@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Software Engineer with **5+ years of experience** specializing in full-stack development, enterprise system administration, and ERP customization. Proven expertise in designing, deploying, and maintaining scalable business applications with a focus on operational efficiency and system reliability.
+Software Engineer with **7+ years of experience** specializing in full-stack development, enterprise system administration, and ERP customization. Proven expertise in designing, deploying, and maintaining scalable business applications with a focus on operational efficiency and system reliability.
 
 **Technical Leadership:** Demonstrated ability to lead end-to-end implementation of enterprise solutions, from requirements gathering to deployment and user training.
 
