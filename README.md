@@ -28,7 +28,7 @@ Software Engineer with **7+ years of experience** specializing in full-stack dev
 
 ### IT Developer
 **Runda Heavy Industries Limited**  
-*December 2024 - Present*
+*December 2024 - December 2025*
 
 - Manage and maintain enterprise web servers, email servers, cloud hosting environments, and virtualization infrastructure, ensuring high availability and optimal performance
 - Design and develop custom Odoo ERP modules, implementing automated workflows and integrating with third-party systems to streamline business operations
